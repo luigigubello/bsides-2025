@@ -1,10 +1,10 @@
-# Bsides 2025
+# BSides 2025
 
-Talk "_app.alert(1) is the new alert(1): PDF files as a vector to inject JavaScript code in web applications_", presented at [**Bsides Sofia 2025**](https://securitybsides.bg/) (March 29th, 2025) and [**Bsides Krakow 2025**](https://bsideskrakow.pl/) (September 27th, 2025).
+Talk "_app.alert(1) is the new alert(1): PDF files as a vector to inject JavaScript code in web applications_", presented at [**BSides Sofia 2025**](https://securitybsides.bg/) (March 29th, 2025) and [**BSides Krakow 2025**](https://bsideskrakow.pl/) (September 27th, 2025).
 
 ### app.alert(1) is the new alert(1): PDF files as a vector to inject JavaScript code in web applications
 
-**Talk:** [ BSides Sofia: app.alert(1) is the new alert(1) ](https://www.youtube.com/watch?v=86RC5Sha9gU)
+**Talk:** [BSides Sofia: app.alert(1) is the new alert(1)](https://www.youtube.com/watch?v=86RC5Sha9gU)
 
 **Slides:** [app.alert(1) is the new alert(1): PDF files as a vector to inject JavaScript code in web applications]()
 
