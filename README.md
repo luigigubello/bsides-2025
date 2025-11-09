@@ -6,9 +6,7 @@ Talk "_app.alert(1) is the new alert(1): PDF files as a vector to inject JavaScr
 
 **Talk:** [BSides Sofia: app.alert(1) is the new alert(1)](https://www.youtube.com/watch?v=86RC5Sha9gU)
 
-**Slides:** [app.alert(1) is the new alert(1): PDF files as a vector to inject JavaScript code in web applications]()
-
-**Recording:**
+**Slides:** [app.alert(1) is the new alert(1): PDF files as a vector to inject JavaScript code in web applications](https://pitch.com/v/appalert1-is-the-new-alert1-krakow-wrwskm)
 
 **Abstract:** PDFs - rise, decline, and revival: a journey across how we have changed our way of viewing and editing PDF files by moving from offline clients to online services, and how this is changing the role of PDF files as attack vectors. Let's explore four CVEs that affected two of the most significant PDF rendering JavaScript libraries in 2024.
 
